@@ -1,4 +1,4 @@
-* Kaleidoscope *
+** Kaleidoscope **
 
 - A simple Kaleidoscope design for DiY hour.
 - Laser cut parts, including the mirrors (acrylic).
